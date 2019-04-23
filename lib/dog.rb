@@ -1,2 +1,2 @@
-class = Dogs
+class Dogs
 end
