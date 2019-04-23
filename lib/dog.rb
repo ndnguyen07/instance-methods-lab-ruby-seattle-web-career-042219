@@ -6,4 +6,5 @@ end
 
 
 def sit
-  puts "sit"
+  puts "The Dog is sitting"
+end
